@@ -1,0 +1,4 @@
+Para que pueda conectar a la bbdd de mongodb he tenido que crear un usuario Atlas Admin
+
+Guia para esquemas de Mongo
+https://mongoosejs.com/docs/guide.html

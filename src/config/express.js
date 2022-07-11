@@ -3,10 +3,9 @@ import express from 'express';
 
 const expressApp = express();
 
-// Middlewares
+//MiddleWares
 expressApp.use(express.json());
 
-// Routes
+//Routes
 expressApp.use('/user', userRouter);
-
 export default expressApp;

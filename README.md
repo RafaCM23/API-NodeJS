@@ -1,15 +1,9 @@
-# Gestión de usuarios
+# Practica Api Rest Node JS
 
 ## Resumen
 
-Desarrollar una aplicación para la gestión de usuarios de una aplicación web.
-
-La comunicación con la aplicación se deberá realizar a través de una API REST (HTTP).
-La aplicación persistirá los datos, de forma que si se para todos los cambios deberán permanecer guardados
-
-El objetivo de esta aplicación es practicar los conceptos que hemos ido desarrollando a lo largo de la serie de videos del curso de Node.
-
-La idea es que utilicéis las herramientas que hemos ido viendo a lo largo de los videos, pero dejo la práctica abierta a modificaciones y ampliaciones
+El objetivo de este proyecto es aprender a desarrollar Back con Node JS, además de usar una base de datos
+MongoDB.
 
 ## Definición de entidades
 
@@ -34,4 +28,4 @@ La idea es que utilicéis las herramientas que hemos ido viendo a lo largo de lo
 ## Requisitos no funcionales
 
 -   La aplicación deberá poderse ejecutar con la versión LTS de Node.JS(16).
--   Se puede utilizar cualquier base de datos, aunque es recomendable utilizar Mongo.DB ya que es la que hemos explicado en los videos.
+-   BBDD MongoDB
